@@ -16,5 +16,5 @@ Bee.prototype = Object.create(Grub.prototype);
 // change constructor to be our subclass Bee constructor
 Bee.prototype.constructor = Bee;
 
-console.log(Bee.prototype);
+
 
